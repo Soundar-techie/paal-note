@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react-native",
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "checkJs": false,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules", "babel.config.js", "metro.config.js"]
+}
